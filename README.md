@@ -1,6 +1,10 @@
 # dnmp
 Docker deploying Nginx MySQL PHP7 in one key, support full feature functions.
 
+## 说明
+> 如果内存没有大于1G以上，建议mysql使用小于5.6的版本
+
+
 ![Demo Image](./dnmp.png)
 
 ### Feature
